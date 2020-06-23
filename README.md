@@ -8,7 +8,7 @@
 </p>
 
 
-**[快來測驗你的 JavaScript 技能吧！](https://js-pop-quiz.now.sh)**
+(https://js-pop-quiz.now.sh)**
 
 <img src="https://i.imgur.com/zovrBw2.png">
 
